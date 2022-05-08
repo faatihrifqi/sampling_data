@@ -23,7 +23,7 @@ We no longer need weather_data.xlsx
 rm weather_data.xlsx
 ```
 
-# Sampling Time
+## Sampling Time
 
 Finally, we did the sampling using shuf command, since I couldn't get sample-stream to work
 ```
